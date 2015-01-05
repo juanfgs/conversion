@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Juanfgs\\Conversion": "src/"
+            "Abhimanyusharma003\\Conversion": "src/"
         }
     },
     "minimum-stability": "stable"
