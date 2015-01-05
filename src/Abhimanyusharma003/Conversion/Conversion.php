@@ -136,6 +136,7 @@ class Conversion {
         'CUBIC_INCH'               => 1.6387e-5,
         'CUBIC_FOOT'               => 0.0283168,
 
+
 	// Power
 	'HP' => 1,
 	'WATT' => 745.669782,
@@ -144,6 +145,7 @@ class Conversion {
 
 	'HZ' => 0.0166666666667,
 	'RPM' => 1
+
 
     );
 
