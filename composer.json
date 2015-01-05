@@ -1,0 +1,31 @@
+{
+    "name": "juanfgs/conversion",
+    "description": "Laravel Unit Conversion",
+     "keywords": [
+         "laravel", "uint", "measurements", "conversion"
+     ],
+    "homepage":    "https://github.com/juanfgs/conversion",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abhimanyu Sharma",
+            "email": "abhimanyusharma003@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Juan Francisco Giménez Silva",
+            "email": "juanfgs@gmail.com",
+            "role": "Contributor"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support":"4.*|5.0.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Abhimanyusharma003\\Conversion": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
